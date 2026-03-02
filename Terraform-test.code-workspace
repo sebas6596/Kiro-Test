@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../Terraform-test"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
